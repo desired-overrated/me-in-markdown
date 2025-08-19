@@ -10,7 +10,7 @@ Moving on, volleyball has been a big passion for me since I was little. Making t
 
 ## My Playlist
 
-{This is my playlist}()
+{This is my playlist}(https://open.spotify.com/playlist/20kmaWsHEKVvkerlTxisCv?si=GO_P7i5RT6O3lUxwk0McPQ)
 
 ## My College/MoodBoard
 
