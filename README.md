@@ -1,7 +1,7 @@
 # Me-in-Markdown
 ## Introduction
 
-Helllo! My name is Bella Moon. I am currently in 10th grade and I am on the JV volleyball team. A book I am in the rpocess of reading is powerless and I'm reading it because of a lot of my friends have recommended it to me. A personal achivement of mine is geting a 4.0 in all of middle school and 9th grade.
+Hello! My name is Bella Moon. I am currently in 10th grade and I am on the JV volleyball team. A book I am in the process of reading powerless and I'm reading it because of a lot of my friends have recommended it to me. A personal achivement of mine is geting a 4.0 in all of middle school and 9th grade.
 
 This summer I went to Vegas with my family and Vegas is know for their strong winds. Taking that in, we had a dust storm as we were swimming. It was a first for me and it was a big shock. Furthermore, in this class, I hope to further my knowledge of coding and how it is used in everyday life. 
 
@@ -12,6 +12,6 @@ Moving on, volleyball has been a big passion for me since I was little. Making t
 
 {This is my playlist}(https://open.spotify.com/playlist/20kmaWsHEKVvkerlTxisCv?si=GO_P7i5RT6O3lUxwk0McPQ)
 
-## My College/MoodBoard
+## My Collage/MoodBoard
 
-![my college](put link here)
+![my collage](https://www.canva.com/design/DAGwfElvjNQ/YrHqelIG7U7mFNkHID3EtA/edit?ui=e30)
