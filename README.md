@@ -14,4 +14,4 @@ Moving on, volleyball has been a big passion for me since I was little. Making t
 
 ## My Collage/MoodBoard
 
-![my collage](https://www.canva.com/design/DAGwfElvjNQ/YrHqelIG7U7mFNkHID3EtA/edit?ui=e30)
+![my collage](myCollage.png)
